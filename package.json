@@ -1,0 +1,30 @@
+{
+  "name": "hurl",
+  "version": "0.1.0",
+  "description": "Simple http request",
+  "author": {
+    "name": "Sergey Kamardin",
+    "email": "gobwas@gmail.com",
+    "url": "https://github.com/gobwas"
+  },
+  "repository": "gobwas/hurl",
+  "license": "MIT",
+  "keywords": [
+    "hurl",
+    "http",
+    "request"
+  ],
+  "dependencies": {
+    "lodash": "^3.10.0"
+  },
+  "devDependencies": {
+    "chai": "^3.2.0",
+    "chai-as-promised": "^5.1.0",
+    "mocha": "^2.2.5",
+    "sinon": "^1.15.4"
+  },
+  "scripts": {
+    "test": "mocha ./test"
+  },
+  "main": "./index.js"
+}

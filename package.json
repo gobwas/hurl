@@ -1,6 +1,6 @@
 {
   "name": "hurl",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "description": "Simple http request",
   "author": {
     "name": "Sergey Kamardin",
